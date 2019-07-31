@@ -1,0 +1,16 @@
+{
+    "name": "pdf-parser",
+    "description": "Test to parse PDF",
+    "license": "0BSD",
+    "dependencies": {
+        "express": "*",
+        "redis": "2.8.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/simple-itec/pdf-parser.git"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
